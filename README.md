@@ -1,2 +1,2 @@
 # R-Simulation
-Sample R Simulation Code from Assignments
+Sample R Simulation Code from Academia
